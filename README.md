@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi, I'm Fatiha 👋
 
-<!--
-**OuardiFatiha/OuardiFatiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student who is passionate about making sotfware, creating technology to elevate people, and building community. Some technologies I enjoy working with include Artificial Intelligence, Machine Learning and Deeep Learning. I'm also interested in web and mobile technologies including Angular, React and Spring.
+I'm currently looking for an internship for 3 to 4 months starting from juin 2021.
 
-Here are some ideas to get you started:
+## Find me around the web 🌎: 
+- LinkedIn profile <a href="https://www.linkedin.com/in/ouardifatiha/">LinkedIn</a> 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Analysis, Machine Learning
+- Lisp, Prolog
+- Pandas
+- Numpy
+- Matplotlib
+- Sickit-learn
+
+### Web technologies
+
+- Angular
+- React
+- HTML, CSS
+- Javascript, JQuery
+- PHP, Laravel
+- WordPress
+
+### Programming Languages
+
+- Python 
+- Java, JEE
+- C, C++ , C#
+- Ocaml
+### Database
+- Oracle
+- PostgreSQL
+- MySql
+
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | C1 (TOEIC certified)                                                      |
+| French        | C1                                                                        |
+| Arabi         | Native language                                                           |
+
