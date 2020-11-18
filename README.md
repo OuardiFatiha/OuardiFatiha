@@ -1,11 +1,11 @@
 ### Hi, I'm Fatiha 👋
 
 I'm a software engineering student who is passionate about making sotfware, creating technology to elevate people, and building community. Some technologies I enjoy working with include Artificial Intelligence, Machine Learning and Deeep Learning. I'm also interested in web and mobile technologies including Angular, React and Spring.
-I'm currently looking for an internship for 3 to 4 months starting from juin 2021.
+I'm currently looking for an internship for 3 to 4 months starting from june 2021 :date:
 
-## Contact me :email: 
+### Contact me :email: 
 [![Linkedin Badge](https://img.shields.io/badge/-ouardifatiha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ouardifatiha/)](https://www.linkedin.com/in/ouardifatiha/)
-[![Medium Badge](https://img.shields.io/badge/-@fatiha.ouardi.sm1-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fatiha.ouardi.sm1)](https://medium.com/@fatiha.ouardi.sm1)
+[![Medium Badge](https://img.shields.io/badge/-@fatiha.ouardi.sm1-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fatiha.ouardi.sm1)](https://medium.com/@fatiha.ouardi)
 [![Gmail Badge](https://img.shields.io/badge/-ouardiifatiha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ouardiifatiha@gmail.com)](ouardiifatiha@gmail.com)
 - <a href="">Portfolio website</a> :computer:
 ### Technologies 
@@ -17,15 +17,19 @@ I'm currently looking for an internship for 3 to 4 months starting from juin 202
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
-
-### Data Analysis, Machine Learning
+### Table Of Contents :scroll:
+- [Data Analysis, Machine Learning](#data-analysis-machine-learning-)
+- [Web Technologies](#web-technologies-)
+- [Programming Languages](#programming-languages-)
+- [Database](#database-)
+### Data Analysis Machine Learning
 - Lisp, Prolog
 - Pandas
 - Numpy
 - Matplotlib
 - Sickit-learn
 
-### Web technologies
+### Web Technologies
 - Angular
 - React
 - HTML, CSS
