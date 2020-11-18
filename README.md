@@ -3,8 +3,20 @@
 I'm a software engineering student who is passionate about making sotfware, creating technology to elevate people, and building community. Some technologies I enjoy working with include Artificial Intelligence, Machine Learning and Deeep Learning. I'm also interested in web and mobile technologies including Angular, React and Spring.
 I'm currently looking for an internship for 3 to 4 months starting from juin 2021.
 
-## Find me around the web 🌎: 
-- LinkedIn profile <a href="https://www.linkedin.com/in/ouardifatiha/">LinkedIn</a> 💼
+## Contact me :email: 
+[![Linkedin Badge](https://img.shields.io/badge/-ouardifatiha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ouardifatiha/)](https://www.linkedin.com/in/ouardifatiha/)
+[![Medium Badge](https://img.shields.io/badge/-@fatiha.ouardi.sm1-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fatiha.ouardi.sm1)](https://medium.com/@fatiha.ouardi.sm1)
+[![Gmail Badge](https://img.shields.io/badge/-ouardiifatiha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ouardiifatiha@gmail.com)](ouardiifatiha@gmail.com)
+- <a href="">Portfolio website</a> :computer:
+### Technologies 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 ### Data Analysis, Machine Learning
 - Lisp, Prolog
@@ -14,7 +26,6 @@ I'm currently looking for an internship for 3 to 4 months starting from juin 202
 - Sickit-learn
 
 ### Web technologies
-
 - Angular
 - React
 - HTML, CSS
@@ -23,7 +34,6 @@ I'm currently looking for an internship for 3 to 4 months starting from juin 202
 - WordPress
 
 ### Programming Languages
-
 - Python 
 - Java, JEE
 - C, C++ , C#
@@ -32,7 +42,6 @@ I'm currently looking for an internship for 3 to 4 months starting from juin 202
 - Oracle
 - PostgreSQL
 - MySql
-
 
 ### Languages 🌐
 
