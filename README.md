@@ -7,7 +7,7 @@ I'm currently looking for an internship for 3 to 4 months starting from june 202
 [![Linkedin Badge](https://img.shields.io/badge/-ouardifatiha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ouardifatiha/)](https://www.linkedin.com/in/ouardifatiha/)
 [![Medium Badge](https://img.shields.io/badge/-@fatiha.ouardi.sm1-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fatiha.ouardi.sm1)](https://medium.com/@fatiha.ouardi)
 [![Gmail Badge](https://img.shields.io/badge/-ouardiifatiha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ouardiifatiha@gmail.com)](ouardiifatiha)
-- <a href="">Portfolio website</a> :computer:
+- <a href="mailto:ouardiifatiha@gmail.com">Portfolio website</a> :computer:
 ### Technologies 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
