@@ -2,7 +2,7 @@
 
 I'm a double degree engineer in Software Engineering and Informatics Systems of Air Transport, who is passionate about making sotfware, creating technology to elevate people, and building community. Some technologies I enjoy working with include Artificial Intelligence, Machine Learning and Deeep Learning. I'm also interested in web and mobile technologies including Angular, React and Spring. 
 Being a Team Leader in AIESEC, I am also an enthusiastic about the world of entrepreneurship!
-I'm currently looking for an internship for 6 months starting from june 2022. :date:
+I'm currently looking for an internship for 6 months starting from february 2022. :date:
 
 ### Contact me :email: 
 [![Linkedin Badge](https://img.shields.io/badge/-ouardifatiha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ouardifatiha/)](https://www.linkedin.com/in/ouardifatiha/)
