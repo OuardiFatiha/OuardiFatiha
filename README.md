@@ -9,7 +9,10 @@ I'm currently looking for an internship for 6 months starting from february 2022
 [![Gmail Badge](https://img.shields.io/badge/-ouardiifatiha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ouardiifatiha@gmail.com)](ouardifatiha)
 ![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fatiha.ouardi.sm1)
 <br> <br>
- <a href="mailto:ouardiifatiha@gmail.com">Let's Talk</a> :computer:
+<a href="mailto:ouardiifatiha@gmail.com">Let's Talk</a> :computer:
+<br> <br>
+[Visit My Website](https://ouardifatiha.github.io/) :blossom:
+ 
 ### Technologies 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
