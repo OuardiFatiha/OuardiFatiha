@@ -29,6 +29,7 @@ I'm currently looking for an internship for 6 months starting from february 2022
 - [Web Technologies](#web)
 - [Programming Languages](#languages)
 - [Database](#database)
+- [Certificates](#certificates)
 ### Data Analysis, Machine Learning <a name="data"></a>
 - Lisp, Prolog
 - Pandas
@@ -53,6 +54,9 @@ I'm currently looking for an internship for 6 months starting from february 2022
 - Oracle
 - PostgreSQL
 - MySql.
+
+### Certificates
+![](coursera_certif_1.png)
 
 ### Languages 🌐
 
