@@ -57,6 +57,7 @@ I'm currently looking for an internship for 6 months starting from february 2022
 
 ### Certificates
 ![](IMG/coursera_certif_1.png)
+![](IMG/assembly.png)
 
 ### Languages 🌐
 
